@@ -1,1 +1,1 @@
-# 003-Parallax-Website  [Click Here!](https://oz-mt.github.io/003-Parallax-Website/) ![Parallax-Responsive-Web-Site](https://github.com/yasingultekin/Parallax-Responsive-Web-Site/blob/main/images/preview.jpg)
+# 003-Parallax-Website  [Click Here!](https://oz-mt.github.io/003-Parallax-Website/) ![Parallax-Responsive-Web-Site](https://github.com/Oz-MT/003-Parallax-Website/blob/master/CW/img/Web_G%C3%B6rsel.JPG)
